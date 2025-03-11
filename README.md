@@ -4,9 +4,9 @@
 
 <p align="center">
   <samp>
-    <a href="https://mirrr.medium.com/" target="_blank">blog</a> .
-    <a href="https://www.linkedin.com/in/mirrrrrrrrrrrr/" target="_blank">linkedin</a> .
-    <a href="https://t.me/mirrr1998" target="_blank">telegram</a>
+    <a href="https://mirrr.medium.com/">blog</a> .
+    <a href="https://www.linkedin.com/in/mirrrrrrrrrrrr/">linkedin</a> .
+    <a href="https://t.me/mirrr1998">telegram</a>
   </samp>
 </p>
 
