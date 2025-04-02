@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://mirrr.medium.com/">blog</a> .
+    <a href="https://dev.to/mirrr/">blog</a> .
     <a href="https://www.linkedin.com/in/mirrrrrrrrrrrr/">linkedin</a> .
     <a href="https://t.me/mirrr1998">telegram</a>
   </samp>
