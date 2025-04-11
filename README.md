@@ -3,6 +3,13 @@
 </p>
 
 <p align="center">
+<!--   <a href="https://skillicons.dev"> -->
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,expressjs,nestjs,mongodb" />
+<!--   </a>    -->
+</p>
+
+
+<p align="center">
   <samp>
     <a href="https://dev.to/mirrr/">blog</a> .
     <a href="https://www.linkedin.com/in/mirrrrrrrrrrrr/">linkedin</a> .
