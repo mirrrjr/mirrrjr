@@ -3,9 +3,12 @@
 </p>
 
 <p align="center">
-<!--   <a href="https://skillicons.dev"> -->
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,expressjs,nestjs,mongodb,mysql,postgresql" />
-<!--   </a>    -->
+    <img src="https://skillicons.dev/icons?i=javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs" />
+</p>
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+   <img src="https://skillicons.dev/icons?i=linux,bash,git" />
 </p>
 
 
