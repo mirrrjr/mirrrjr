@@ -3,14 +3,11 @@
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript" />
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs" />
-</p>
-<p align="center">
-   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+   <img src="https://skillicons.dev/icons?i=javascript,typescript" />
+   <img src="https://skillicons.dev/icons?i=nodejs,expressjs" />
+   <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
    <img src="https://skillicons.dev/icons?i=linux,bash,git" />
 </p>
-
 
 <p align="center">
   <samp>
