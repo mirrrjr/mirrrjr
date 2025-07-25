@@ -35,8 +35,8 @@
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=linux" />
-      <img src="https://skillicons.dev/icons?i=nix" />
       <img src="https://skillicons.dev/icons?i=git" />
+      <img src="https://skillicons.dev/icons?i=nix" />
     </td>
   </tr>
 </table>
