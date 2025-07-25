@@ -19,14 +19,14 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" />
       <img src="https://skillicons.dev/icons?i=typescript" />
       <img src="https://skillicons.dev/icons?i=php" />
+      <img src="https://skillicons.dev/icons?i=rust" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" />
-      <img src="https://skillicons.dev/icons?i=expressjs" />
       <img src="https://skillicons.dev/icons?i=laravel" />
+      <img src="https://skillicons.dev/icons?i=nestjs" />
+      <img src="https://skillicons.dev/icons?i=actix" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mongodb" />
@@ -35,7 +35,7 @@
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=linux" />
-      <img src="https://skillicons.dev/icons?i=bash" />
+      <img src="https://skillicons.dev/icons?i=nix" />
       <img src="https://skillicons.dev/icons?i=git" />
     </td>
   </tr>
