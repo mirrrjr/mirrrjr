@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://dev.to/mirrr/">blog</a> .
+    <a href="https://mirrrjr.vercel.app/">blog</a> .
     <a href="https://www.linkedin.com/in/mirrrjr/">linkedin</a> .
     <a href="https://t.me/mirrrjr">telegram</a>
   </samp>
