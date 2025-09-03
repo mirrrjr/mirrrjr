@@ -11,6 +11,7 @@
   </samp>
 </p>
 
+<!--
 <table align="center">
   <tr>
     <th>Language</th>
@@ -41,6 +42,7 @@
     </td>
   </tr>
 </table>
+-->
 
 
 <p align="center">
