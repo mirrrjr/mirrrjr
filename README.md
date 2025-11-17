@@ -4,7 +4,8 @@
 
 <p align="center">
   <samp>
-    <a href="https://www.mirrr.uz/">blog</a> .
+    <a href="https://blog.mirrr.uz/">blog</a> .
+    <a href="https://mirrr.uz/">portfolio</a> .
     <a href="https://www.linkedin.com/in/mirrrjr/">linkedin</a> .
     <a href="https://bsky.app/profile/mirrr.uz">bsky</a> .
     <a href="https://t.me/mirrrjr">telegram</a>
