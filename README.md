@@ -8,7 +8,7 @@
     <a href="https://mirrr.uz/">portfolio</a> .
     <a href="https://www.linkedin.com/in/mirrrjr/">linkedin</a> .
     <a href="https://bsky.app/profile/mirrr.uz">bsky</a> .
-    <a href="https://t.me/mirrrjr">telegram</a>
+    <a href="https://t.me/mirjr_chatbot">telegram</a>
   </samp>
 </p>
 
@@ -48,8 +48,8 @@
 
 <p align="center">
     <a href="https://hits.sh/github.com/mirrrjr/">
-        <img src="https://hits.sh/github.com/mirrrjr.svg?view=today-total&label=mirrr's%20viewers%20(today%20%2F%20total)&color=ff5a00&labelColor=0a0505">
-  </a>
+       <img alt="Hits" src="https://hits.sh/github.com/mirrrjr.svg?view=today-total&style=for-the-badge&label=mirrrjr's%20viewers%20(today%2Ftotal)&extraCount=9&color=007ec6&labelColor=000000"/>
+    </a>
 </p>
 
 <p align="center" >
