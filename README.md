@@ -53,12 +53,6 @@
 </p>
 
 
-<!-- <p align="center">
-<a href="https://user-badge.committers.top/uzbekistan/mirrrjr">
-  <img src="https://user-badge.committers.top/uzbekistan/mirrrjr.svg" alt="committers.top badge" />
-</a>
-</p> -->
-
 <p align="center" >
    <img src="https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN" alt="banner"/>
 </p>
